@@ -1,2 +1,5 @@
 # Mi primera vez con Python
-Me gustò y aprendì
+
+Estudiar: 
+    - Modularización
+    - Python
